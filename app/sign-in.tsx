@@ -21,7 +21,7 @@ const SignIn = () => {
                         <Text className="text-primary-300">Your Ideal Home</Text>
                     </Text>
 
-                    <Text className='text-lg font-rubik text-black-200 text-center mt-12'>
+                    <Text className='text-lg font-rubik text-black-200 text-center mt-6'>
                         Login to ReState with Google
                     </Text>
 
@@ -34,7 +34,6 @@ const SignIn = () => {
                             />
                             <Text className='text-lg font-rubik-medium text-black-300 ml-2'>Continue with Google</Text>
                         </View>
-                        
                     </TouchableOpacity>
 
                 </View>
